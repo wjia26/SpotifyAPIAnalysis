@@ -1,0 +1,449 @@
+,artist_genre,artist_name,time_range,track_id,track_name
+0,anime rock,Official HIGE DANdism,short_term,0YSwpzZT1sUkrL3kTIoHE2,Itan na star
+1,j-pop,Official HIGE DANdism,short_term,0YSwpzZT1sUkrL3kTIoHE2,Itan na star
+2,k-hop,DPR LIVE,short_term,4tJl1AVYE6WFAWtuAEhxpM,Please
+3,k-pop,DPR LIVE,short_term,4tJl1AVYE6WFAWtuAEhxpM,Please
+4,korean r&b,DPR LIVE,short_term,4tJl1AVYE6WFAWtuAEhxpM,Please
+5,conscious hip hop,Logic,short_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+6,dmv rap,Logic,short_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+7,hip hop,Logic,short_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+8,pop rap,Logic,short_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+9,rap,Logic,short_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+10,late romantic era,Pablo de Sarasate,short_term,5aq7wRwq9IDDqAa56x7Yws,"Zigeunerweisen, Op. 20: Lento"
+11,violin,Pablo de Sarasate,short_term,5aq7wRwq9IDDqAa56x7Yws,"Zigeunerweisen, Op. 20: Lento"
+12,contemporary jazz,Hiromi,short_term,2tvXdkylO2rwJXziHNpQ26,Blackbird
+13,contemporary post-bop,Hiromi,short_term,2tvXdkylO2rwJXziHNpQ26,Blackbird
+14,japanese jazz,Hiromi,short_term,2tvXdkylO2rwJXziHNpQ26,Blackbird
+15,jazz funk,Hiromi,short_term,2tvXdkylO2rwJXziHNpQ26,Blackbird
+16,jazz fusion,Hiromi,short_term,2tvXdkylO2rwJXziHNpQ26,Blackbird
+17,indie r&b,Bruno Major,short_term,2k9N4caeCIJLOWwWwssrEM,Easily
+18,pop,Bruno Major,short_term,2k9N4caeCIJLOWwWwssrEM,Easily
+19,alternative r&b,Mac Ayres,short_term,58dSdjfEYNSxte1aNVxuNf,Easy
+20,indie r&b,Mac Ayres,short_term,58dSdjfEYNSxte1aNVxuNf,Easy
+21,indie soul,Mac Ayres,short_term,58dSdjfEYNSxte1aNVxuNf,Easy
+22,classical,Sergei Rachmaninoff,short_term,2GBwDtpuNit18S9L3hFVAv,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: I. Vivace"
+23,post-romantic era,Sergei Rachmaninoff,short_term,2GBwDtpuNit18S9L3hFVAv,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: I. Vivace"
+24,russian romanticism,Sergei Rachmaninoff,short_term,2GBwDtpuNit18S9L3hFVAv,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: I. Vivace"
+25,ukrainian classical,Sergei Rachmaninoff,short_term,2GBwDtpuNit18S9L3hFVAv,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: I. Vivace"
+26,j-pop,androp,short_term,4s6ZktLNLZnk1osl3Vf1ZO,Koi
+27,j-rock,androp,short_term,4s6ZktLNLZnk1osl3Vf1ZO,Koi
+28,japanese alternative rock,androp,short_term,4s6ZktLNLZnk1osl3Vf1ZO,Koi
+29,g funk,Dr. Dre,short_term,0EZMXJMWf0tLKRWwCiA6Sx,Let's Get High
+30,gangster rap,Dr. Dre,short_term,0EZMXJMWf0tLKRWwCiA6Sx,Let's Get High
+31,hip hop,Dr. Dre,short_term,0EZMXJMWf0tLKRWwCiA6Sx,Let's Get High
+32,rap,Dr. Dre,short_term,0EZMXJMWf0tLKRWwCiA6Sx,Let's Get High
+33,west coast rap,Dr. Dre,short_term,0EZMXJMWf0tLKRWwCiA6Sx,Let's Get High
+34,neo mellow,Jack Johnson,short_term,41Az1BCotlAUt7Ud8k6H2Y,Sunsets For Somebody Else
+35,classical,Felix Mendelssohn,short_term,2eA55e1I1PmBIW8gBZ9VNK,"Klavierkonzert Nr. 1 g-Moll, Op. 25: I. Molto allegro con fuoco"
+36,early romantic era,Felix Mendelssohn,short_term,2eA55e1I1PmBIW8gBZ9VNK,"Klavierkonzert Nr. 1 g-Moll, Op. 25: I. Molto allegro con fuoco"
+37,piano cover,Kowrites,short_term,63SdQkVlToSix76P4VmOQO,Shibuya Stroll
+38,classical,Sergei Rachmaninoff,short_term,2oy9WInmvap0o7LYGW3T8n,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: II. Andante"
+39,post-romantic era,Sergei Rachmaninoff,short_term,2oy9WInmvap0o7LYGW3T8n,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: II. Andante"
+40,russian romanticism,Sergei Rachmaninoff,short_term,2oy9WInmvap0o7LYGW3T8n,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: II. Andante"
+41,ukrainian classical,Sergei Rachmaninoff,short_term,2oy9WInmvap0o7LYGW3T8n,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: II. Andante"
+42,modern blues,Leon Bridges,short_term,1Omt5bfz1tZUCqd26HxbS0,Beyond
+43,soul,Leon Bridges,short_term,1Omt5bfz1tZUCqd26HxbS0,Beyond
+44,g funk,Dr. Dre,short_term,7iXF2W9vKmDoGAhlHdpyIa,Forgot About Dre
+45,gangster rap,Dr. Dre,short_term,7iXF2W9vKmDoGAhlHdpyIa,Forgot About Dre
+46,hip hop,Dr. Dre,short_term,7iXF2W9vKmDoGAhlHdpyIa,Forgot About Dre
+47,rap,Dr. Dre,short_term,7iXF2W9vKmDoGAhlHdpyIa,Forgot About Dre
+48,west coast rap,Dr. Dre,short_term,7iXF2W9vKmDoGAhlHdpyIa,Forgot About Dre
+49,catstep,Nitro Fun,short_term,2iQVxrAzwy8dMG0yldSaIg,New Game
+50,complextro,Nitro Fun,short_term,2iQVxrAzwy8dMG0yldSaIg,New Game
+51,deep dubstep,Nitro Fun,short_term,2iQVxrAzwy8dMG0yldSaIg,New Game
+52,edm,Nitro Fun,short_term,2iQVxrAzwy8dMG0yldSaIg,New Game
+53,electro house,Nitro Fun,short_term,2iQVxrAzwy8dMG0yldSaIg,New Game
+54,alternative r&b,Mac Ayres,short_term,4M4ECspANZPJuqacpi1NTn,Should We Take The Van?
+55,indie r&b,Mac Ayres,short_term,4M4ECspANZPJuqacpi1NTn,Should We Take The Van?
+56,indie soul,Mac Ayres,short_term,4M4ECspANZPJuqacpi1NTn,Should We Take The Van?
+57,conscious hip hop,Kendrick Lamar,short_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+58,hip hop,Kendrick Lamar,short_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+59,rap,Kendrick Lamar,short_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+60,west coast rap,Kendrick Lamar,short_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+61,cali rap,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+62,gangster rap,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+63,hyphy,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+64,rap,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+65,southern hip hop,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+66,trap,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+67,west coast trap,Problem,short_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+68,classical,Felix Mendelssohn,short_term,1XlvyqVNz36t1CyWF3HQIM,"Capriccio brillant in B Minor, Op. 22"
+69,early romantic era,Felix Mendelssohn,short_term,1XlvyqVNz36t1CyWF3HQIM,"Capriccio brillant in B Minor, Op. 22"
+70,classical,Felix Mendelssohn,short_term,2OD4MN67xEcDZlZRedolTB,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: I. Allegro appassionato"
+71,early romantic era,Felix Mendelssohn,short_term,2OD4MN67xEcDZlZRedolTB,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: I. Allegro appassionato"
+72,classical,Fritz Kreisler,short_term,2TWxKZIa9HvlLI6xbSVUQF,Tartini: The Devil's Trill
+73,post-romantic era,Fritz Kreisler,short_term,2TWxKZIa9HvlLI6xbSVUQF,Tartini: The Devil's Trill
+74,violin,Fritz Kreisler,short_term,2TWxKZIa9HvlLI6xbSVUQF,Tartini: The Devil's Trill
+75,classical,Fritz Kreisler,short_term,7mqqI1Siu6ZOdC2KgOGGud,Kreisler: Andantino - in the style of Martini
+76,post-romantic era,Fritz Kreisler,short_term,7mqqI1Siu6ZOdC2KgOGGud,Kreisler: Andantino - in the style of Martini
+77,violin,Fritz Kreisler,short_term,7mqqI1Siu6ZOdC2KgOGGud,Kreisler: Andantino - in the style of Martini
+78,classical,Borodin Quartet,short_term,6BebarNIdE5FfxXDlPpZ5y,"Souvenir De Florence, Op. 70: IV. Allegro Vivace"
+79,classical performance,Borodin Quartet,short_term,6BebarNIdE5FfxXDlPpZ5y,"Souvenir De Florence, Op. 70: IV. Allegro Vivace"
+80,string quartet,Borodin Quartet,short_term,6BebarNIdE5FfxXDlPpZ5y,"Souvenir De Florence, Op. 70: IV. Allegro Vivace"
+81,classical,Felix Mendelssohn,short_term,1AePIQwSF64zof6xXPSO6M,"Klavierkonzert Nr. 1 g-Moll, Op. 25: II. Andante"
+82,early romantic era,Felix Mendelssohn,short_term,1AePIQwSF64zof6xXPSO6M,"Klavierkonzert Nr. 1 g-Moll, Op. 25: II. Andante"
+83,c-pop,Leslie Cheung,short_term,1eMujWp9h2cSEPIiO6xOhN,有心人
+84,cantopop,Leslie Cheung,short_term,1eMujWp9h2cSEPIiO6xOhN,有心人
+85,classic cantopop,Leslie Cheung,short_term,1eMujWp9h2cSEPIiO6xOhN,有心人
+86,detroit hip hop,Eminem,short_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+87,g funk,Eminem,short_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+88,hip hop,Eminem,short_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+89,rap,Eminem,short_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+90,g funk,Dr. Dre,short_term,4LwU4Vp6od3Sb08CsP99GC,The Next Episode
+91,gangster rap,Dr. Dre,short_term,4LwU4Vp6od3Sb08CsP99GC,The Next Episode
+92,hip hop,Dr. Dre,short_term,4LwU4Vp6od3Sb08CsP99GC,The Next Episode
+93,rap,Dr. Dre,short_term,4LwU4Vp6od3Sb08CsP99GC,The Next Episode
+94,west coast rap,Dr. Dre,short_term,4LwU4Vp6od3Sb08CsP99GC,The Next Episode
+95,classical,Felix Mendelssohn,short_term,5JruqgGPc5ImJixUyFRHr7,"Piano Concerto No. 1 in G Minor, Op. 25, MWV O7: 3. Presto"
+96,early romantic era,Felix Mendelssohn,short_term,5JruqgGPc5ImJixUyFRHr7,"Piano Concerto No. 1 in G Minor, Op. 25, MWV O7: 3. Presto"
+97,c-pop,Leslie Cheung,short_term,5OTlZY4moBdA3UttjlZBU9,"緣份 - 電影 ""緣份"" 主題曲"
+98,cantopop,Leslie Cheung,short_term,5OTlZY4moBdA3UttjlZBU9,"緣份 - 電影 ""緣份"" 主題曲"
+99,classic cantopop,Leslie Cheung,short_term,5OTlZY4moBdA3UttjlZBU9,"緣份 - 電影 ""緣份"" 主題曲"
+100,c-pop,Leslie Cheung,short_term,5RLv04XXxe0Nc4W7DTBJGT,風繼續吹
+101,cantopop,Leslie Cheung,short_term,5RLv04XXxe0Nc4W7DTBJGT,風繼續吹
+102,classic cantopop,Leslie Cheung,short_term,5RLv04XXxe0Nc4W7DTBJGT,風繼續吹
+103,g funk,Dr. Dre,short_term,5XkeTGKcCkGF8l6fA9YpsS,Bitch Niggaz
+104,gangster rap,Dr. Dre,short_term,5XkeTGKcCkGF8l6fA9YpsS,Bitch Niggaz
+105,hip hop,Dr. Dre,short_term,5XkeTGKcCkGF8l6fA9YpsS,Bitch Niggaz
+106,rap,Dr. Dre,short_term,5XkeTGKcCkGF8l6fA9YpsS,Bitch Niggaz
+107,west coast rap,Dr. Dre,short_term,5XkeTGKcCkGF8l6fA9YpsS,Bitch Niggaz
+108,classical,Felix Mendelssohn,short_term,72dgfW1USZQy5liiRxkeS7,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: II. Adagio - Molto sostenuto"
+109,early romantic era,Felix Mendelssohn,short_term,72dgfW1USZQy5liiRxkeS7,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: II. Adagio - Molto sostenuto"
+110,alternative r&b,Mac Ayres,short_term,5q0zxo739jt8HAyo88vNkt,The Devil's in the Details
+111,indie r&b,Mac Ayres,short_term,5q0zxo739jt8HAyo88vNkt,The Devil's in the Details
+112,indie soul,Mac Ayres,short_term,5q0zxo739jt8HAyo88vNkt,The Devil's in the Details
+113,classical,Felix Mendelssohn,short_term,1hpzM9mfQr9cZQBYJo9B1M,"Klavierkonzert Nr. 1 g-Moll, Op. 25: III. Presto"
+114,early romantic era,Felix Mendelssohn,short_term,1hpzM9mfQr9cZQBYJo9B1M,"Klavierkonzert Nr. 1 g-Moll, Op. 25: III. Presto"
+115,c-pop,Leslie Cheung,short_term,1mSrXFejuVyMxWgwWCYgtq,"今生今世(電影""金枝玉葉""歌曲)"
+116,cantopop,Leslie Cheung,short_term,1mSrXFejuVyMxWgwWCYgtq,"今生今世(電影""金枝玉葉""歌曲)"
+117,classic cantopop,Leslie Cheung,short_term,1mSrXFejuVyMxWgwWCYgtq,"今生今世(電影""金枝玉葉""歌曲)"
+118,classical,Sergei Rachmaninoff,short_term,27sVyaosy1rSRB3hO859UU,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: III. Allegro Vivace"
+119,post-romantic era,Sergei Rachmaninoff,short_term,27sVyaosy1rSRB3hO859UU,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: III. Allegro Vivace"
+120,russian romanticism,Sergei Rachmaninoff,short_term,27sVyaosy1rSRB3hO859UU,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: III. Allegro Vivace"
+121,ukrainian classical,Sergei Rachmaninoff,short_term,27sVyaosy1rSRB3hO859UU,"Concerto pour Piano et Orchestre No. 1 en Fa Dièse Mineur, Op. 1: III. Allegro Vivace"
+122,classical,Felix Mendelssohn,short_term,5dx08KrsyuIdg6LtjuZSfC,"Rondo brillant in E-Flat Major, Op. 29"
+123,early romantic era,Felix Mendelssohn,short_term,5dx08KrsyuIdg6LtjuZSfC,"Rondo brillant in E-Flat Major, Op. 29"
+124,chicago rap,Kanye West,short_term,2QpGZOhTCHHiKmpSO9FW4h,Follow God
+125,rap,Kanye West,short_term,2QpGZOhTCHHiKmpSO9FW4h,Follow God
+126,k-hop,Zion.T,short_term,0q3xk0VI0w7omVXYA09sVw,Eat
+127,k-indie,Zion.T,short_term,0q3xk0VI0w7omVXYA09sVw,Eat
+128,k-pop,Zion.T,short_term,0q3xk0VI0w7omVXYA09sVw,Eat
+129,korean pop,Zion.T,short_term,0q3xk0VI0w7omVXYA09sVw,Eat
+130,korean r&b,Zion.T,short_term,0q3xk0VI0w7omVXYA09sVw,Eat
+131,late romantic era,Pablo de Sarasate,short_term,5u8nn1mjHzMtaCm0Lfo0Qk,Sarasate : Caprice basque Op.24
+132,violin,Pablo de Sarasate,short_term,5u8nn1mjHzMtaCm0Lfo0Qk,Sarasate : Caprice basque Op.24
+133,classical,Felix Mendelssohn,short_term,6vO4D4UBaUDrK3gBFUOUCU,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: III. Finale: Presto scherzando"
+134,early romantic era,Felix Mendelssohn,short_term,6vO4D4UBaUDrK3gBFUOUCU,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: III. Finale: Presto scherzando"
+135,j-pop,ONE OK ROCK,short_term,08d7Ulc4Lra4rOa9oQtFML,Mikansei koukyoukyoku
+136,j-rock,ONE OK ROCK,short_term,08d7Ulc4Lra4rOa9oQtFML,Mikansei koukyoukyoku
+137,visual kei,ONE OK ROCK,short_term,08d7Ulc4Lra4rOa9oQtFML,Mikansei koukyoukyoku
+138,conscious hip hop,Kendrick Lamar,short_term,0N3W5peJUQtI4eyR6GJT5O,King Kunta
+139,hip hop,Kendrick Lamar,short_term,0N3W5peJUQtI4eyR6GJT5O,King Kunta
+140,rap,Kendrick Lamar,short_term,0N3W5peJUQtI4eyR6GJT5O,King Kunta
+141,west coast rap,Kendrick Lamar,short_term,0N3W5peJUQtI4eyR6GJT5O,King Kunta
+142,catstep,Nitro Fun,short_term,0VV4lfEdeV4PEAjuQH72N8,Cheat Codes
+143,complextro,Nitro Fun,short_term,0VV4lfEdeV4PEAjuQH72N8,Cheat Codes
+144,deep dubstep,Nitro Fun,short_term,0VV4lfEdeV4PEAjuQH72N8,Cheat Codes
+145,edm,Nitro Fun,short_term,0VV4lfEdeV4PEAjuQH72N8,Cheat Codes
+146,electro house,Nitro Fun,short_term,0VV4lfEdeV4PEAjuQH72N8,Cheat Codes
+147,adult standards,Michael Bublé,short_term,1WqsREavcr6qHA8oAbnaIa,That's Life
+148,canadian pop,Michael Bublé,short_term,1WqsREavcr6qHA8oAbnaIa,That's Life
+149,lounge,Michael Bublé,short_term,1WqsREavcr6qHA8oAbnaIa,That's Life
+150,dance pop,Mariah Carey,short_term,1bCQIvugIRkL0yLG5cvQcZ,All I Want for Christmas Is You
+151,pop,Mariah Carey,short_term,1bCQIvugIRkL0yLG5cvQcZ,All I Want for Christmas Is You
+152,r&b,Mariah Carey,short_term,1bCQIvugIRkL0yLG5cvQcZ,All I Want for Christmas Is You
+153,urban contemporary,Mariah Carey,short_term,1bCQIvugIRkL0yLG5cvQcZ,All I Want for Christmas Is You
+154,c-pop,Leslie Cheung,short_term,21pfcRjH4iqUg7EliHMI4J,飛機師的風衣
+155,cantopop,Leslie Cheung,short_term,21pfcRjH4iqUg7EliHMI4J,飛機師的風衣
+156,classic cantopop,Leslie Cheung,short_term,21pfcRjH4iqUg7EliHMI4J,飛機師的風衣
+157,classical,Sergei Rachmaninoff,short_term,256pkGJdfTu88nGtOUuDp7,"Concerto pour Piano et Orchestre No. 4 en Sol Mineur, Op. 40: II. Largo"
+158,post-romantic era,Sergei Rachmaninoff,short_term,256pkGJdfTu88nGtOUuDp7,"Concerto pour Piano et Orchestre No. 4 en Sol Mineur, Op. 40: II. Largo"
+159,russian romanticism,Sergei Rachmaninoff,short_term,256pkGJdfTu88nGtOUuDp7,"Concerto pour Piano et Orchestre No. 4 en Sol Mineur, Op. 40: II. Largo"
+160,ukrainian classical,Sergei Rachmaninoff,short_term,256pkGJdfTu88nGtOUuDp7,"Concerto pour Piano et Orchestre No. 4 en Sol Mineur, Op. 40: II. Largo"
+161,cali rap,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+162,gangster rap,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+163,hyphy,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+164,rap,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+165,southern hip hop,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+166,trap,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+167,west coast trap,Problem,medium_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+168,turntablism,C2C,medium_term,1SayqEg8HKK2IeIEWjdYxY,Down The Road
+169,escape room,Anderson .Paak,medium_term,6BvtitRX5lQC87YlA6rq0n,Bubblin
+170,escape room,Anderson .Paak,medium_term,70pZIQqQ37SrNCADx0FiPN,Jet Black (feat. Brandy)
+171,k-hop,DPR LIVE,medium_term,4tJl1AVYE6WFAWtuAEhxpM,Please
+172,k-pop,DPR LIVE,medium_term,4tJl1AVYE6WFAWtuAEhxpM,Please
+173,korean r&b,DPR LIVE,medium_term,4tJl1AVYE6WFAWtuAEhxpM,Please
+174,j-pop,androp,medium_term,4s6ZktLNLZnk1osl3Vf1ZO,Koi
+175,j-rock,androp,medium_term,4s6ZktLNLZnk1osl3Vf1ZO,Koi
+176,japanese alternative rock,androp,medium_term,4s6ZktLNLZnk1osl3Vf1ZO,Koi
+177,escape room,Anderson .Paak,medium_term,4SBVWkRIMJ6WBCYPvr5Bwr,Make It Better (feat. Smokey Robinson)
+178,turntablism,C2C,medium_term,5gtuTd7og1AADSAa2oYy3m,Delta
+179,metal guitar,Paul Gilbert,medium_term,7lil49sUFoQaFGhLQNRgH6,I Own a Building
+180,neo classical metal,Paul Gilbert,medium_term,7lil49sUFoQaFGhLQNRgH6,I Own a Building
+181,shred,Paul Gilbert,medium_term,7lil49sUFoQaFGhLQNRgH6,I Own a Building
+182,gangster rap,The Game,medium_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+183,hip hop,The Game,medium_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+184,pop rap,The Game,medium_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+185,rap,The Game,medium_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+186,southern hip hop,The Game,medium_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+187,trap,The Game,medium_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+188,anime rock,Official HIGE DANdism,medium_term,0YSwpzZT1sUkrL3kTIoHE2,Itan na star
+189,j-pop,Official HIGE DANdism,medium_term,0YSwpzZT1sUkrL3kTIoHE2,Itan na star
+190,neo mellow,John Mayer,medium_term,3SktMqZmo3M9zbB7oKMIF7,Gravity
+191,pop,John Mayer,medium_term,3SktMqZmo3M9zbB7oKMIF7,Gravity
+192,pop rock,John Mayer,medium_term,3SktMqZmo3M9zbB7oKMIF7,Gravity
+193,singer-songwriter,John Mayer,medium_term,3SktMqZmo3M9zbB7oKMIF7,Gravity
+194,late romantic era,Pablo de Sarasate,medium_term,5u8nn1mjHzMtaCm0Lfo0Qk,Sarasate : Caprice basque Op.24
+195,violin,Pablo de Sarasate,medium_term,5u8nn1mjHzMtaCm0Lfo0Qk,Sarasate : Caprice basque Op.24
+196,conscious hip hop,J. Cole,medium_term,2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD
+197,hip hop,J. Cole,medium_term,2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD
+198,nc hip hop,J. Cole,medium_term,2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD
+199,pop rap,J. Cole,medium_term,2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD
+200,rap,J. Cole,medium_term,2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD
+201,escape room,Anderson .Paak,medium_term,5ri4b7YQp2PWn8tl3MRYgE,King James
+202,boston hip hop,Joyner Lucas,medium_term,36TO60sxDduIsO3xH8IcUh,Isis
+203,hip hop,Joyner Lucas,medium_term,36TO60sxDduIsO3xH8IcUh,Isis
+204,pop rap,Joyner Lucas,medium_term,36TO60sxDduIsO3xH8IcUh,Isis
+205,rap,Joyner Lucas,medium_term,36TO60sxDduIsO3xH8IcUh,Isis
+206,japanese jazz,fox capture plan,medium_term,19g05c3N1AuJ5qcdsqg8qS,LIFE
+207,japanese math rock,fox capture plan,medium_term,19g05c3N1AuJ5qcdsqg8qS,LIFE
+208,japanese post-rock,fox capture plan,medium_term,19g05c3N1AuJ5qcdsqg8qS,LIFE
+209,turntablism,C2C,medium_term,78orLDLxWpOZINipGYrV0g,Who Are You
+210,turntablism,C2C,medium_term,1TDuaeF7FnV74z57NK7hh4,Arcades
+211,turntablism,C2C,medium_term,2ZXWOCdQ2IJ63RBOjuQVR3,Happy
+212,turntablism,C2C,medium_term,4YG11F0CV02cJEFUH7NUBn,F.U.Y.A.
+213,conscious hip hop,Logic,medium_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+214,dmv rap,Logic,medium_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+215,hip hop,Logic,medium_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+216,pop rap,Logic,medium_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+217,rap,Logic,medium_term,17N5FdRwJuv3UXQ7MHnbhF,Ballin
+218,escape room,Anderson .Paak,medium_term,2lRe5wBRm4xaSKTbDn2vLD,Trippy (feat. J. Cole)
+219,turntablism,C2C,medium_term,3XOEuZcwfW4l7fttcB7zB6,Because Of You
+220,turntablism,C2C,medium_term,4nACgpjyb4XoabqODcszuE,Genius
+221,detroit hip hop,Eminem,medium_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+222,g funk,Eminem,medium_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+223,hip hop,Eminem,medium_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+224,rap,Eminem,medium_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+225,hip hop,NF,medium_term,2OKo7g3KfmCt3kyLvUAL0g,The Search
+226,pop rap,NF,medium_term,2OKo7g3KfmCt3kyLvUAL0g,The Search
+227,rap,NF,medium_term,2OKo7g3KfmCt3kyLvUAL0g,The Search
+228,conscious hip hop,Kendrick Lamar,medium_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+229,hip hop,Kendrick Lamar,medium_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+230,rap,Kendrick Lamar,medium_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+231,west coast rap,Kendrick Lamar,medium_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+232,classical,Wolfgang Amadeus Mozart,medium_term,2vYZz7GEja1hXM7w6S4Y5I,"Piano Sonata No. 8 in A Minor, K. 310: I. Allegro maestoso"
+233,classical era,Wolfgang Amadeus Mozart,medium_term,2vYZz7GEja1hXM7w6S4Y5I,"Piano Sonata No. 8 in A Minor, K. 310: I. Allegro maestoso"
+234,alternative r&b,Snoh Aalegra,medium_term,2TRnVXGSK4aBtfEOaB460m,Fool For You
+235,indie r&b,Snoh Aalegra,medium_term,2TRnVXGSK4aBtfEOaB460m,Fool For You
+236,indie soul,Snoh Aalegra,medium_term,2TRnVXGSK4aBtfEOaB460m,Fool For You
+237,scandinavian r&b,Snoh Aalegra,medium_term,2TRnVXGSK4aBtfEOaB460m,Fool For You
+238,swedish soul,Snoh Aalegra,medium_term,2TRnVXGSK4aBtfEOaB460m,Fool For You
+239,japanese jazz,fox capture plan,medium_term,1NMYxZgo5IQgFgOcZdwZ9E,夜間航路
+240,japanese math rock,fox capture plan,medium_term,1NMYxZgo5IQgFgOcZdwZ9E,夜間航路
+241,japanese post-rock,fox capture plan,medium_term,1NMYxZgo5IQgFgOcZdwZ9E,夜間航路
+242,alternative r&b,Mac Ayres,medium_term,58dSdjfEYNSxte1aNVxuNf,Easy
+243,indie r&b,Mac Ayres,medium_term,58dSdjfEYNSxte1aNVxuNf,Easy
+244,indie soul,Mac Ayres,medium_term,58dSdjfEYNSxte1aNVxuNf,Easy
+245,turntablism,C2C,medium_term,0CTc19yGofNg8y8UxBJ2PI,The Cell
+246,atl hip hop,Offset,medium_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+247,hip hop,Offset,medium_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+248,pop rap,Offset,medium_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+249,rap,Offset,medium_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+250,southern hip hop,Offset,medium_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+251,trap,Offset,medium_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+252,atl hip hop,Future,medium_term,0VgkVdmE4gld66l8iyGjgx,Mask Off
+253,hip hop,Future,medium_term,0VgkVdmE4gld66l8iyGjgx,Mask Off
+254,pop rap,Future,medium_term,0VgkVdmE4gld66l8iyGjgx,Mask Off
+255,rap,Future,medium_term,0VgkVdmE4gld66l8iyGjgx,Mask Off
+256,southern hip hop,Future,medium_term,0VgkVdmE4gld66l8iyGjgx,Mask Off
+257,trap,Future,medium_term,0VgkVdmE4gld66l8iyGjgx,Mask Off
+258,escape room,Anderson .Paak,medium_term,6RpunyUP44SDweJPDScLSF,Come Home (feat. André 3000)
+259,turntablism,C2C,medium_term,5KTZsi6HKh2laUVsgaU3ag,The Beat
+260,late romantic era,Pablo de Sarasate,medium_term,5aq7wRwq9IDDqAa56x7Yws,"Zigeunerweisen, Op. 20: Lento"
+261,violin,Pablo de Sarasate,medium_term,5aq7wRwq9IDDqAa56x7Yws,"Zigeunerweisen, Op. 20: Lento"
+262,hip hop,Jaden,medium_term,22nyEAEM29tcBRhukR089b,Icon
+263,pop rap,Jaden,medium_term,22nyEAEM29tcBRhukR089b,Icon
+264,rap,Jaden,medium_term,22nyEAEM29tcBRhukR089b,Icon
+265,chicago rap,Kanye West,medium_term,4qikXelSRKvoCqFcHLB2H2,Mercy
+266,rap,Kanye West,medium_term,4qikXelSRKvoCqFcHLB2H2,Mercy
+267,neo mellow,John Mayer,medium_term,6Vecwo7AHst9V2CE3kmwr0,No Such Thing
+268,pop,John Mayer,medium_term,6Vecwo7AHst9V2CE3kmwr0,No Such Thing
+269,pop rock,John Mayer,medium_term,6Vecwo7AHst9V2CE3kmwr0,No Such Thing
+270,singer-songwriter,John Mayer,medium_term,6Vecwo7AHst9V2CE3kmwr0,No Such Thing
+271,contemporary jazz,Hiromi,medium_term,1NpTkYFGPrYb9FRNGjLVyJ,Blackbird
+272,contemporary post-bop,Hiromi,medium_term,1NpTkYFGPrYb9FRNGjLVyJ,Blackbird
+273,japanese jazz,Hiromi,medium_term,1NpTkYFGPrYb9FRNGjLVyJ,Blackbird
+274,jazz funk,Hiromi,medium_term,1NpTkYFGPrYb9FRNGjLVyJ,Blackbird
+275,jazz fusion,Hiromi,medium_term,1NpTkYFGPrYb9FRNGjLVyJ,Blackbird
+276,indie r&b,Bruno Major,medium_term,2k9N4caeCIJLOWwWwssrEM,Easily
+277,pop,Bruno Major,medium_term,2k9N4caeCIJLOWwWwssrEM,Easily
+278,atl hip hop,Offset,long_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+279,hip hop,Offset,long_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+280,pop rap,Offset,long_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+281,rap,Offset,long_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+282,southern hip hop,Offset,long_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+283,trap,Offset,long_term,7sO5G9EABYOXQKNPNiE9NR,Ric Flair Drip (& Metro Boomin)
+284,gangster rap,The Game,long_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+285,hip hop,The Game,long_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+286,pop rap,The Game,long_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+287,rap,The Game,long_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+288,southern hip hop,The Game,long_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+289,trap,The Game,long_term,2tbvAGoLMQgjvfgW7naBiE,El Chapo
+290,turntablism,C2C,long_term,1SayqEg8HKK2IeIEWjdYxY,Down The Road
+291,detroit hip hop,Eminem,long_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+292,g funk,Eminem,long_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+293,hip hop,Eminem,long_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+294,rap,Eminem,long_term,2XTquzYQAdT1Hk78bOUwsv,Greatest
+295,cali rap,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+296,gangster rap,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+297,hyphy,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+298,rap,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+299,southern hip hop,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+300,trap,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+301,west coast trap,Problem,long_term,66kSqGS2iwHK20sxjrZct4,Better Watch Yo Self
+302,k-hop,Zion.T,long_term,6yEfq48XkEzCg0TwY6Hhkb,No Make Up
+303,k-indie,Zion.T,long_term,6yEfq48XkEzCg0TwY6Hhkb,No Make Up
+304,k-pop,Zion.T,long_term,6yEfq48XkEzCg0TwY6Hhkb,No Make Up
+305,korean pop,Zion.T,long_term,6yEfq48XkEzCg0TwY6Hhkb,No Make Up
+306,korean r&b,Zion.T,long_term,6yEfq48XkEzCg0TwY6Hhkb,No Make Up
+307,k-hop,Primary,long_term,4gG5sukldSPM3sX0OTpTeT,"Love (feat. Bumkey, Paloalto)"
+308,k-indie,Primary,long_term,4gG5sukldSPM3sX0OTpTeT,"Love (feat. Bumkey, Paloalto)"
+309,k-pop,Primary,long_term,4gG5sukldSPM3sX0OTpTeT,"Love (feat. Bumkey, Paloalto)"
+310,korean pop,Primary,long_term,4gG5sukldSPM3sX0OTpTeT,"Love (feat. Bumkey, Paloalto)"
+311,j-pop,ONE OK ROCK,long_term,1XT0cpl9g0GuRQJao2nqXd,Kanzen kankaku Dreamer
+312,j-rock,ONE OK ROCK,long_term,1XT0cpl9g0GuRQJao2nqXd,Kanzen kankaku Dreamer
+313,visual kei,ONE OK ROCK,long_term,1XT0cpl9g0GuRQJao2nqXd,Kanzen kankaku Dreamer
+314,k-indie,Jungkey,long_term,3aNsBkmdh6MO8UkLd42BUA,I Don't Want
+315,korean pop,Jungkey,long_term,3aNsBkmdh6MO8UkLd42BUA,I Don't Want
+316,hip hop,G-Eazy,long_term,2DQ1ITjI0YoLFzuADN1ZBW,No Limit
+317,indie pop rap,G-Eazy,long_term,2DQ1ITjI0YoLFzuADN1ZBW,No Limit
+318,pop rap,G-Eazy,long_term,2DQ1ITjI0YoLFzuADN1ZBW,No Limit
+319,rap,G-Eazy,long_term,2DQ1ITjI0YoLFzuADN1ZBW,No Limit
+320,j-pop,KANA-BOON,long_term,1dsh4buvcBs2u7YtHy29c7,ないものねだり
+321,j-rock,KANA-BOON,long_term,1dsh4buvcBs2u7YtHy29c7,ないものねだり
+322,k-hop,Giriboy,long_term,1VrpAZL277l0gnTBhSd3TH,Sooljalee
+323,k-indie,Giriboy,long_term,1VrpAZL277l0gnTBhSd3TH,Sooljalee
+324,korean r&b,Giriboy,long_term,1VrpAZL277l0gnTBhSd3TH,Sooljalee
+325,j-pop,ONE OK ROCK,long_term,08d7Ulc4Lra4rOa9oQtFML,Mikansei koukyoukyoku
+326,j-rock,ONE OK ROCK,long_term,08d7Ulc4Lra4rOa9oQtFML,Mikansei koukyoukyoku
+327,visual kei,ONE OK ROCK,long_term,08d7Ulc4Lra4rOa9oQtFML,Mikansei koukyoukyoku
+328,conscious hip hop,J. Cole,long_term,62vpWI1CHwFy7tMIcSStl8,No Role Modelz
+329,hip hop,J. Cole,long_term,62vpWI1CHwFy7tMIcSStl8,No Role Modelz
+330,nc hip hop,J. Cole,long_term,62vpWI1CHwFy7tMIcSStl8,No Role Modelz
+331,pop rap,J. Cole,long_term,62vpWI1CHwFy7tMIcSStl8,No Role Modelz
+332,rap,J. Cole,long_term,62vpWI1CHwFy7tMIcSStl8,No Role Modelz
+333,dance pop,David Guetta,long_term,6eIacmhkE82vZlMDnGS7aP,Bad (feat. Vassy) - Radio Edit
+334,edm,David Guetta,long_term,6eIacmhkE82vZlMDnGS7aP,Bad (feat. Vassy) - Radio Edit
+335,pop,David Guetta,long_term,6eIacmhkE82vZlMDnGS7aP,Bad (feat. Vassy) - Radio Edit
+336,pop,Bruno Mars,long_term,0KKkJNfGyhkQ5aFogxQAPU,That's What I Like
+337,c-pop,Jay Chou,long_term,04x6DpeFQ72efXsD0DmWPQ,明明就
+338,mandopop,Jay Chou,long_term,04x6DpeFQ72efXsD0DmWPQ,明明就
+339,taiwan pop,Jay Chou,long_term,04x6DpeFQ72efXsD0DmWPQ,明明就
+340,cali rap,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+341,gangster rap,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+342,hyphy,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+343,rap,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+344,southern hip hop,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+345,trap,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+346,west coast trap,Problem,long_term,5jCsMKfXS6NEJTIC4eCyu3,Betta Watch Yo Self
+347,conscious hip hop,Kendrick Lamar,long_term,3qX1dqmDdmMvvfMVfsx4Bh,m.A.A.d city
+348,hip hop,Kendrick Lamar,long_term,3qX1dqmDdmMvvfMVfsx4Bh,m.A.A.d city
+349,rap,Kendrick Lamar,long_term,3qX1dqmDdmMvvfMVfsx4Bh,m.A.A.d city
+350,west coast rap,Kendrick Lamar,long_term,3qX1dqmDdmMvvfMVfsx4Bh,m.A.A.d city
+351,k-hop,Zion.T,long_term,6ToAD7ajJidQTDn72OncDG,꺼내 먹어요 (Eat)
+352,k-indie,Zion.T,long_term,6ToAD7ajJidQTDn72OncDG,꺼내 먹어요 (Eat)
+353,k-pop,Zion.T,long_term,6ToAD7ajJidQTDn72OncDG,꺼내 먹어요 (Eat)
+354,korean pop,Zion.T,long_term,6ToAD7ajJidQTDn72OncDG,꺼내 먹어요 (Eat)
+355,korean r&b,Zion.T,long_term,6ToAD7ajJidQTDn72OncDG,꺼내 먹어요 (Eat)
+356,conscious hip hop,Kendrick Lamar,long_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+357,hip hop,Kendrick Lamar,long_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+358,rap,Kendrick Lamar,long_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+359,west coast rap,Kendrick Lamar,long_term,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.
+360,classical,Jean Sibelius,long_term,1amhCqDxkHGhQMv1Ss9OJs,"Sibelius: Violin Concerto in D Minor, Op. 47: I. Allegro moderato"
+361,early modern classical,Jean Sibelius,long_term,1amhCqDxkHGhQMv1Ss9OJs,"Sibelius: Violin Concerto in D Minor, Op. 47: I. Allegro moderato"
+362,finnish classical,Jean Sibelius,long_term,1amhCqDxkHGhQMv1Ss9OJs,"Sibelius: Violin Concerto in D Minor, Op. 47: I. Allegro moderato"
+363,post-romantic era,Jean Sibelius,long_term,1amhCqDxkHGhQMv1Ss9OJs,"Sibelius: Violin Concerto in D Minor, Op. 47: I. Allegro moderato"
+364,g funk,Dr. Dre,long_term,0Zh5U48tZNeAzzLTV1CVBE,Forgot About Dre
+365,gangster rap,Dr. Dre,long_term,0Zh5U48tZNeAzzLTV1CVBE,Forgot About Dre
+366,hip hop,Dr. Dre,long_term,0Zh5U48tZNeAzzLTV1CVBE,Forgot About Dre
+367,rap,Dr. Dre,long_term,0Zh5U48tZNeAzzLTV1CVBE,Forgot About Dre
+368,west coast rap,Dr. Dre,long_term,0Zh5U48tZNeAzzLTV1CVBE,Forgot About Dre
+369,k-hop,Primary,long_term,1PDfg5XSNpgC7Od0iMozfE,"? (물음표) (feat. 최자 of 다이나믹듀오, Zion.T)"
+370,k-indie,Primary,long_term,1PDfg5XSNpgC7Od0iMozfE,"? (물음표) (feat. 최자 of 다이나믹듀오, Zion.T)"
+371,k-pop,Primary,long_term,1PDfg5XSNpgC7Od0iMozfE,"? (물음표) (feat. 최자 of 다이나믹듀오, Zion.T)"
+372,korean pop,Primary,long_term,1PDfg5XSNpgC7Od0iMozfE,"? (물음표) (feat. 최자 of 다이나믹듀오, Zion.T)"
+373,classical,Felix Mendelssohn,long_term,1XlvyqVNz36t1CyWF3HQIM,"Capriccio brillant in B Minor, Op. 22"
+374,early romantic era,Felix Mendelssohn,long_term,1XlvyqVNz36t1CyWF3HQIM,"Capriccio brillant in B Minor, Op. 22"
+375,detroit hip hop,Eminem,long_term,60SdxE8apGAxMiRrpbmLY0,Lucky You (feat. Joyner Lucas)
+376,g funk,Eminem,long_term,60SdxE8apGAxMiRrpbmLY0,Lucky You (feat. Joyner Lucas)
+377,hip hop,Eminem,long_term,60SdxE8apGAxMiRrpbmLY0,Lucky You (feat. Joyner Lucas)
+378,rap,Eminem,long_term,60SdxE8apGAxMiRrpbmLY0,Lucky You (feat. Joyner Lucas)
+379,c-pop,Jay Chou,long_term,0nt1LAZjaTjrf30S8hdRDU,聽見下雨的聲音
+380,mandopop,Jay Chou,long_term,0nt1LAZjaTjrf30S8hdRDU,聽見下雨的聲音
+381,taiwan pop,Jay Chou,long_term,0nt1LAZjaTjrf30S8hdRDU,聽見下雨的聲音
+382,k-hop,Zion.T,long_term,61yCHvf0FoBtnnDwqOtbHp,Babay (feat. Gaeko)
+383,k-indie,Zion.T,long_term,61yCHvf0FoBtnnDwqOtbHp,Babay (feat. Gaeko)
+384,k-pop,Zion.T,long_term,61yCHvf0FoBtnnDwqOtbHp,Babay (feat. Gaeko)
+385,korean pop,Zion.T,long_term,61yCHvf0FoBtnnDwqOtbHp,Babay (feat. Gaeko)
+386,korean r&b,Zion.T,long_term,61yCHvf0FoBtnnDwqOtbHp,Babay (feat. Gaeko)
+387,classical,Henryk Wieniawski,long_term,0yQMA3UgzGgmL7Py3lPFCx,"Scherzo-tarantelle in G Minor, Op.16 - 1987 Remastered Version"
+388,late romantic era,Henryk Wieniawski,long_term,0yQMA3UgzGgmL7Py3lPFCx,"Scherzo-tarantelle in G Minor, Op.16 - 1987 Remastered Version"
+389,polish classical,Henryk Wieniawski,long_term,0yQMA3UgzGgmL7Py3lPFCx,"Scherzo-tarantelle in G Minor, Op.16 - 1987 Remastered Version"
+390,k-indie,Baek A Yeon,long_term,6ezuIWphgAyuOc2aK7xMHT,Sad Song (느린노래)
+391,k-pop,Baek A Yeon,long_term,6ezuIWphgAyuOc2aK7xMHT,Sad Song (느린노래)
+392,korean pop,Baek A Yeon,long_term,6ezuIWphgAyuOc2aK7xMHT,Sad Song (느린노래)
+393,boston hip hop,Joyner Lucas,long_term,30z4LVkScpeNhwHFIB8Ewa,I Love
+394,hip hop,Joyner Lucas,long_term,30z4LVkScpeNhwHFIB8Ewa,I Love
+395,pop rap,Joyner Lucas,long_term,30z4LVkScpeNhwHFIB8Ewa,I Love
+396,rap,Joyner Lucas,long_term,30z4LVkScpeNhwHFIB8Ewa,I Love
+397,k-pop,BTS,long_term,2ySKRXKN58cbIlY1cxd80y,I NEED U
+398,k-pop boy group,BTS,long_term,2ySKRXKN58cbIlY1cxd80y,I NEED U
+399,classical,Niccolò Paganini,long_term,0LUMNOIykU5SgNwzZIlah4,"Paganini: Violin Concerto No. 1 in D Major, Op. 6: I. Allegro maestoso"
+400,early romantic era,Niccolò Paganini,long_term,0LUMNOIykU5SgNwzZIlah4,"Paganini: Violin Concerto No. 1 in D Major, Op. 6: I. Allegro maestoso"
+401,classical,Ludwig van Beethoven,long_term,4d1182NzgXOv7igDm9WyM8,"Triple Concerto in C Major, Op. 56: I. Allegro"
+402,classical era,Ludwig van Beethoven,long_term,4d1182NzgXOv7igDm9WyM8,"Triple Concerto in C Major, Op. 56: I. Allegro"
+403,early romantic era,Ludwig van Beethoven,long_term,4d1182NzgXOv7igDm9WyM8,"Triple Concerto in C Major, Op. 56: I. Allegro"
+404,c-pop,Leslie Cheung,long_term,1jWPUI9NkBpfhW2G9Oi3sX,有誰共鳴
+405,cantopop,Leslie Cheung,long_term,1jWPUI9NkBpfhW2G9Oi3sX,有誰共鳴
+406,classic cantopop,Leslie Cheung,long_term,1jWPUI9NkBpfhW2G9Oi3sX,有誰共鳴
+407,c-pop,Jay Chou,long_term,7vs3JM90lKhp11av83WA5j,算什麼男人
+408,mandopop,Jay Chou,long_term,7vs3JM90lKhp11av83WA5j,算什麼男人
+409,taiwan pop,Jay Chou,long_term,7vs3JM90lKhp11av83WA5j,算什麼男人
+410,indonesian hip hop,Rich Brian,long_term,4bdJHQp90ymjEIkkYhcENB,Dat $tick
+411,c-pop,Jay Chou,long_term,1ivCIgrYZyE0BvItL4Z8lk,告白氣球
+412,mandopop,Jay Chou,long_term,1ivCIgrYZyE0BvItL4Z8lk,告白氣球
+413,taiwan pop,Jay Chou,long_term,1ivCIgrYZyE0BvItL4Z8lk,告白氣球
+414,chicago rap,Kanye West,long_term,4qikXelSRKvoCqFcHLB2H2,Mercy
+415,rap,Kanye West,long_term,4qikXelSRKvoCqFcHLB2H2,Mercy
+416,classical,Felix Mendelssohn,long_term,6vO4D4UBaUDrK3gBFUOUCU,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: III. Finale: Presto scherzando"
+417,early romantic era,Felix Mendelssohn,long_term,6vO4D4UBaUDrK3gBFUOUCU,"Piano Concerto No. 2 in D Minor, Op. 40, MWV O11: III. Finale: Presto scherzando"
+418,chicago rap,Kanye West,long_term,2nBI3iWLhupR7LyAJ5GGkE,Champions
+419,rap,Kanye West,long_term,2nBI3iWLhupR7LyAJ5GGkE,Champions
+420,atl hip hop,Migos,long_term,4Km5HrUvYTaSUfiSGPJeQR,Bad and Boujee (feat. Lil Uzi Vert)
+421,pop rap,Migos,long_term,4Km5HrUvYTaSUfiSGPJeQR,Bad and Boujee (feat. Lil Uzi Vert)
+422,rap,Migos,long_term,4Km5HrUvYTaSUfiSGPJeQR,Bad and Boujee (feat. Lil Uzi Vert)
+423,trap,Migos,long_term,4Km5HrUvYTaSUfiSGPJeQR,Bad and Boujee (feat. Lil Uzi Vert)
+424,k-pop,BIGBANG,long_term,4SLZDeEuyeOCHuCQAG8Pf0,BAE BAE
+425,k-pop boy group,BIGBANG,long_term,4SLZDeEuyeOCHuCQAG8Pf0,BAE BAE
+426,k-hop,Gaeko,long_term,5fOeCKDtNGOPKBoYQoRHRL,"씨스루 (feat. Zion.T, 개코 of 다이나믹듀오)"
+427,korean r&b,Gaeko,long_term,5fOeCKDtNGOPKBoYQoRHRL,"씨스루 (feat. Zion.T, 개코 of 다이나믹듀오)"
+428,dfw rap,Post Malone,long_term,2BxGUHYALj0a1Dxbj1Yw4Y,Broken Whiskey Glass
+429,melodic rap,Post Malone,long_term,2BxGUHYALj0a1Dxbj1Yw4Y,Broken Whiskey Glass
+430,rap,Post Malone,long_term,2BxGUHYALj0a1Dxbj1Yw4Y,Broken Whiskey Glass
+431,g funk,Dr. Dre,long_term,6ltPEsP4edATzvinHOzvk2,Still D.R.E.
+432,gangster rap,Dr. Dre,long_term,6ltPEsP4edATzvinHOzvk2,Still D.R.E.
+433,hip hop,Dr. Dre,long_term,6ltPEsP4edATzvinHOzvk2,Still D.R.E.
+434,rap,Dr. Dre,long_term,6ltPEsP4edATzvinHOzvk2,Still D.R.E.
+435,west coast rap,Dr. Dre,long_term,6ltPEsP4edATzvinHOzvk2,Still D.R.E.
+436,k-hop,Primary,long_term,0C5Vq3CfkQzVI6ybjYoM1c,"요지경 (feat. 슈프림팀, Yankie, Mellow)"
+437,k-indie,Primary,long_term,0C5Vq3CfkQzVI6ybjYoM1c,"요지경 (feat. 슈프림팀, Yankie, Mellow)"
+438,k-pop,Primary,long_term,0C5Vq3CfkQzVI6ybjYoM1c,"요지경 (feat. 슈프림팀, Yankie, Mellow)"
+439,korean pop,Primary,long_term,0C5Vq3CfkQzVI6ybjYoM1c,"요지경 (feat. 슈프림팀, Yankie, Mellow)"
+440,classical,Felix Mendelssohn,long_term,3POMHYwwOaQZKpwQsQynkp,Mendelssohn: Violin Concerto in E Minor Op. 64: I. Allegro molto appassionato
+441,early romantic era,Felix Mendelssohn,long_term,3POMHYwwOaQZKpwQsQynkp,Mendelssohn: Violin Concerto in E Minor Op. 64: I. Allegro molto appassionato
+442,c-pop,Jay Chou,long_term,6W2tmkeuHKaedHhdTPnyVs,說好的幸福呢
+443,mandopop,Jay Chou,long_term,6W2tmkeuHKaedHhdTPnyVs,說好的幸福呢
+444,taiwan pop,Jay Chou,long_term,6W2tmkeuHKaedHhdTPnyVs,說好的幸福呢
+445,c-pop,Jay Chou,long_term,7LyCtbxher5m97MImn5M3l,不該
+446,mandopop,Jay Chou,long_term,7LyCtbxher5m97MImn5M3l,不該
+447,taiwan pop,Jay Chou,long_term,7LyCtbxher5m97MImn5M3l,不該
